@@ -135,4 +135,3 @@ On Meteora and every EVM chain, the first 15 seconds cost up to 90%.
 **$STEALTH** on Solana: `GoDSW31bTxfkoup9yA1qcGGx9RMXdTEWgApv3xzBmoA`
 
 <sub>The EVM contracts are live and have not been audited. Coins are risky, and fees only exist if people trade. Nothing here is financial advice. Just Stealth It is not affiliated with Pump.fun, Raydium, Meteora, Robinhood, BNB Chain, Hyperliquid, Base, Circle or Solana Foundation.</sub>
-
